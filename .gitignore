@@ -1,0 +1,14 @@
+# Entornos y archivos generados localmente
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.context/
+tmp/
+.DS_Store
+
+# Credenciales locales
+.env
+.env.*
+!.env.example
